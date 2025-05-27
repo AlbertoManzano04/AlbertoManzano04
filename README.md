@@ -1,20 +1,24 @@
-<h1 align="center">Hola 👋, soy [Tu Nombre]</h1>
-<h3 align="center">💻 Desarrollador Web | Técnico Superior en DAW</h3>
+<h1 align="center">Hola 👋, soy Alberto Manzano</h1>
+<h3 align="center">💻 Desarrollador Web</h3>
 
 ---
 
 🌟 Soy un desarrollador web apasionado, comprometido y con muchas ganas de seguir aprendiendo.  
-🎓 Graduado en Bachillerato de Ciencias y Técnico Superior en Desarrollo de Aplicaciones Web.  
+🎓 Graduado en Bachillerato de Ciencias y Grado Superior en Desarrollo de Aplicaciones Web.  
 🧠 Conocimientos en: Java ☕ | PHP 🐘 | JavaScript ⚙️ | HTML5 & CSS3 🌐  
 🧩 Experiencia con CMS como WordPress  
 🛠️ Familiarizado con herramientas modernas de desarrollo  
 🚀 Siempre en búsqueda de mejorar, innovar y asumir nuevos retos.
 
 ---
+### 🌟 Practicas realizadas en:
+Camara de comercio (Motril)📈 
+
+
 
 ### 🌐 Conecta conmigo
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/tu-usuario/)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/tu-usuario)
+[![LinkedIn](https://www.linkedin.com/in/alberto-manzano-cabrera-495775243/)
+[![Instagram](https://www.instagram.com/_alberto.mnznoo/)
 
 ---
 
