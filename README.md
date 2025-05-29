@@ -19,15 +19,13 @@ Camara de comercio (Motril)📈
 ### 🌐 Conecta conmigo
 <div class="d-flex justify-content-center gap-4 mt-4">
     <!-- Instagram -->
-    <a href="https://www.instagram.com/tu_usuario" target="_blank" rel="noopener noreferrer">
+    <a href="https://www.instagram.com/_alberto.mnznoo/" target="_blank" rel="noopener noreferrer">
         <img src="https://upload.wikimedia.org/wikipedia/commons/e/e7/Instagram_logo_2016.svg" alt="Instagram" width="40" height="40">
     </a>
-
     <!-- LinkedIn -->
-    <a href="https://www.linkedin.com/in/tu_usuario" target="_blank" rel="noopener noreferrer">
+    <a href="https://www.linkedin.com/in/alberto-manzano-cabrera-495775243/" target="_blank" rel="noopener noreferrer">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="40" height="40">
     </a>
-</div>
 
 ---
 
